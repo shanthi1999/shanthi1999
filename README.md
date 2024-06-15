@@ -18,10 +18,13 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/><img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/azure-1.png" alt="azure-1"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/azure-1.png" alt="azure-1"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5000H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+
+
+![Shanthi's Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14837806)
 
 ![Shanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanthi1999&theme=dark&show_icons=true&&hide=issues,contribs)
 
