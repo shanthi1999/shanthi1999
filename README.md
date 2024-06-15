@@ -7,7 +7,7 @@
 - 🌱 I’m currently exploring monorepo
 - 👯 I’m looking to collaborate on MERN stack, Web Apps
 - 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
+- 💬 Ask me about Mern stack
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Passionate about all things coding.
 - 📫 How to reach me : [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shanthi-b-06065b146/) [<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shanthibabu1999@gmail.com) [<img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/14837806/shanthi-b)  [<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/+918248540909)
