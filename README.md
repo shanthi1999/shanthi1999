@@ -2,7 +2,7 @@
 
 **Software Engineer | MERN stack developer | Freelancer**
 
-- 🔭 Here's my [portfolio](https://shanthi.netlify.app/)
+- 🔭 Here's my [portfolio](http://heyshanthi.vercel.app/)
 - 🧑‍💻 Currently i'm working in [iNextLabs](https://inextlabs.ai/)                                                     
 - 🌱 I’m currently exploring monorepo
 - 👯 I’m looking to collaborate on MERN stack, Web Apps
