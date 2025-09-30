@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Shanthi
 
-**Software Engineer | MERN stack developer | Freelancer**
+**Senior Full Stack Engineer | MERN & Node.js | Payment Integrations & Deployment | Open to Backend/Full Stack Roles**
 
 - 🔭 Here's my [portfolio](http://heyshanthi.vercel.app/)
 - 🧑‍💻 Currently i'm working in [iNextLabs](https://inextlabs.ai/)                                                     
